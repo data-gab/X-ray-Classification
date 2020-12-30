@@ -37,9 +37,9 @@ The model ended up with an accuracy of 79% when predicting the testing dataset. 
 
 ## Conclusions and Recommendations
 ***
-The best model had and accuracy rate of almost 80%, which is not great, but still pretty good. Most of the models I built had an accuracy of 70% and up. The models most likely need some more hyperparameter tuning and general tuning. My best model is struggles with predicting pneumonia images and is more likely to predict false negatives.
+The best model had an accuracy rate of almost 80%, which is not great, but still pretty good. Most of the models I built had an accuracy of 70% and up. The models most likely need some more hyperparameter tuning and general tuning. My best model is struggles with predicting pneumonia images and is more likely to predict false negatives.
 
-My recommendations would be to use this model as a first opinion. Then professional doctors would be used as a necessary second opinion to finally determine whether or not a patient has pneumonia.
+My recommendations would be to use this model as a first opinion. Then professional doctors would be used as a necessary second opinion to finally determine whether or not a patient has pneumonia. I would also recommend training these models on adult X-Ray images, since these images are only of pedatric patients ranging from ages one to five.
 
 ## Future Work
 ***
